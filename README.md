@@ -2,7 +2,7 @@ My Another React-JavaScript small Project !
  
 **Online Chat Application**
 
-*Try it Out : https://react-group-chat-by-sid.netlify.app/ *
+Try it Out : https://react-group-chat-by-sid.netlify.app/ 
 
 _For Both, Mobile & PC Users_
 
